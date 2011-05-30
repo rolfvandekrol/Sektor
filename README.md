@@ -1,1 +1,1 @@
-Complete rewrite of [Cyrax][http://solovyov.net/cyrax/]
+Complete rewrite of [Cyrax](http://solovyov.net/cyrax/)
